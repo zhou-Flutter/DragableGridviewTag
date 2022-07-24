@@ -1,4 +1,4 @@
-# DragableGridviewPlus
+# DragableGridviewTag
 
 
 该插件基于DragableGridview 扩展, 支持空安全，添加了Tag 删除和添加的轨迹动画，插件基于自己的项目定制修改,建议拉到本地自己修改优化
