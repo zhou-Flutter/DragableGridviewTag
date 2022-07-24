@@ -8,7 +8,7 @@ DragableGridview[https://github.com/baoolong/DragableGridview](https://github.co
 
 
 
-<img width="38%" height="38%" src="https://github.com/zhou-Flutter/DragableGridviewPlus/blob/master/example/exp.gif"/>
+<img width="38%" height="38%" src="https://github.com/zhou-Flutter/DragableGridviewTag/blob/master/exp_01.gif?raw=true"/>
 
 图片不显示的话，使用特殊方式访问
 
